@@ -1,2 +1,2 @@
 # Github-Fetching
-- Allows you to search agithub account and display informations such as: profile picture, username, public repos, user type, number of followers and following.
+- Allows you to search a github account and display informations such as: profile picture, username, public repos, user type, number of followers and following.
